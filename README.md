@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello there, I'm Godswill Patrick Omonaye <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="left"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="150"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="150"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
