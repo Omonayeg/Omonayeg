@@ -16,9 +16,11 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 📫 How to reach me: **omonayeg@gmail.com**.
 - ⚡ Fun fact: **Music is a Weapon**.
 - 📫 Check out my Profile card on <a href="https://linktr.ee/Willomonaye">Linktree</a>. 
+
 ---
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/willOmonaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calebbitiyong" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/will-omonaye-b3579a153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calebduniya" height="30" width="40" /></a>
